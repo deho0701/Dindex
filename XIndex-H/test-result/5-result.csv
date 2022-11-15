@@ -1,0 +1,52 @@
+read : 0.5 , insert : 0.3 , remove : 0.2 , table size : 10000
+message: up table size
+thread num:  4
+[micro] Throughput(op/s): 20772610
+thread num:  8
+[micro] Throughput(op/s): 41229369
+thread num:  12
+[micro] Throughput(op/s): 60697865
+thread num:  16
+[micro] Throughput(op/s): 75293287
+thread num:  20
+[micro] Throughput(op/s): 95417899
+thread num:  24
+[micro] Throughput(op/s): 110052551
+thread num:  28
+[micro] Throughput(op/s): 132024988
+thread num:  32
+[micro] Throughput(op/s): 140724015
+thread num:  36
+[micro] Throughput(op/s): 151265848
+thread num:  40
+[micro] >>> sec 3 throughput: 168096930
+thread num:  44
+[micro] Throughput(op/s): 174577238
+thread num:  48
+[micro] Throughput(op/s): 192107280
+thread num:  52
+[micro] >>> sec 3 throughput: 207534263
+thread num:  56
+[micro] Throughput(op/s): 177589633
+thread num:  60
+[micro] Throughput(op/s): 210859014
+thread num:  64
+[micro] >>> sec 2 throughput: 207644657
+thread num:  68
+[micro] Throughput(op/s): 215742427
+thread num:  72
+[micro] Throughput(op/s): 219591299
+thread num:  76
+[micro] >>> sec 4 throughput: 218381620
+thread num:  80
+[micro] Throughput(op/s): 231879629
+thread num:  84
+[micro] Throughput(op/s): 243068432
+thread num:  88
+[micro] Throughput(op/s): 253696472
+thread num:  92
+[micro] >>> sec 5 throughput: 260983457
+thread num:  96
+[micro] >>> sec 5 throughput: 271698199
+thread num:  100
+[micro] Throughput(op/s): 281469268

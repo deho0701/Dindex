@@ -1,0 +1,3 @@
+/home/ho/xindex/XIndex-H/CMakeFiles/rebuild_cache.dir
+/home/ho/xindex/XIndex-H/CMakeFiles/edit_cache.dir
+/home/ho/xindex/XIndex-H/CMakeFiles/microbench.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/microbench.dir/microbench.cpp.o  -o microbench   -L/opt/intel/mkl/lib/intel64  -Wl,-rpath,/opt/intel/mkl/lib/intel64 -ljemalloc -lmkl_rt -lpthread 
